@@ -1,0 +1,12 @@
+/Users/KaranDev/Fall2020/CIS365/Assignments/BFS/bin/Debug/netcoreapp3.1/BFS.deps.json
+/Users/KaranDev/Fall2020/CIS365/Assignments/BFS/bin/Debug/netcoreapp3.1/BFS.runtimeconfig.json
+/Users/KaranDev/Fall2020/CIS365/Assignments/BFS/bin/Debug/netcoreapp3.1/BFS.runtimeconfig.dev.json
+/Users/KaranDev/Fall2020/CIS365/Assignments/BFS/bin/Debug/netcoreapp3.1/BFS.dll
+/Users/KaranDev/Fall2020/CIS365/Assignments/BFS/bin/Debug/netcoreapp3.1/BFS.pdb
+/Users/KaranDev/Fall2020/CIS365/Assignments/BFS/obj/Debug/netcoreapp3.1/BFS.csprojAssemblyReference.cache
+/Users/KaranDev/Fall2020/CIS365/Assignments/BFS/obj/Debug/netcoreapp3.1/BFS.AssemblyInfoInputs.cache
+/Users/KaranDev/Fall2020/CIS365/Assignments/BFS/obj/Debug/netcoreapp3.1/BFS.AssemblyInfo.cs
+/Users/KaranDev/Fall2020/CIS365/Assignments/BFS/obj/Debug/netcoreapp3.1/BFS.csproj.CoreCompileInputs.cache
+/Users/KaranDev/Fall2020/CIS365/Assignments/BFS/obj/Debug/netcoreapp3.1/BFS.dll
+/Users/KaranDev/Fall2020/CIS365/Assignments/BFS/obj/Debug/netcoreapp3.1/BFS.pdb
+/Users/KaranDev/Fall2020/CIS365/Assignments/BFS/obj/Debug/netcoreapp3.1/BFS.genruntimeconfig.cache
